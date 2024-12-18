@@ -10,8 +10,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 💲 Cryptocurrency
-[Conclavio](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
-
+[Conclavio](https://img.shields.io/badge/Conclavio?style=flat-square&logo=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D230841263155381%26set%3Da.230841259822048%26type%3D3)
 # 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
